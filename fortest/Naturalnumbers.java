@@ -1,0 +1,20 @@
+package fortest;
+
+public class Naturalnumbers {
+
+//	public static void main(String[] args) {
+//		int n=Integer.parseInt(args [0]);
+//		for(int i=0;i<=n;i++){
+//			
+//			System.out.println( i);
+//		}
+//	}
+
+	public void natnum(int num) {
+		for(int i=0;i<=num;i++){
+			
+			System.out.println( i);
+		}
+	}
+	
+}
